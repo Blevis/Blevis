@@ -1,7 +1,7 @@
 # Hello, I'm Blevis.
 
-💻Currently working on:
-    https://github.com/Blevis/PacmanAI
+💻Currently working on:\n
+    https://github.com/Blevis/PacmanAI\n
     https://github.com/Blevis/PlayOps
 
 ## 🌐 Socials:
