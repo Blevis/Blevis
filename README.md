@@ -4,8 +4,7 @@
 
 <br>
 
-<img src="https://github-stats-extended.vercel.app/api?username=Blevis&rank_icon=github&show_icons=true&include_all_commits=true&theme=onedark" alt="GitHub stats" height="170">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blevis&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=2C001E&title_color=E95420&text_color=F5F1EA&icon_color=D97757&border_color=5E2750" alt="Top languages" height="170">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5E2750?style=for-the-badge&logo=linkedin&logoColor=E95420)](https://www.linkedin.com/in/blevis-allushi-5145461b5/) [![Instagram](https://img.shields.io/badge/Instagram-5E2750?style=for-the-badge&logo=instagram&logoColor=E95420)](https://instagram.com/blevisallushi) [![Pinterest](https://img.shields.io/badge/Pinterest-5E2750?style=for-the-badge&logo=pinterest&logoColor=E95420)](https://pinterest.com/blevisa) [![X](https://img.shields.io/badge/X-5E2750?style=for-the-badge&logo=x&logoColor=E95420)](https://x.com/blevees) [![Facebook](https://img.shields.io/badge/Facebook-5E2750?style=for-the-badge&logo=facebook&logoColor=E95420)](https://facebook.com/blevis.allushiABBL) [![Email](https://img.shields.io/badge/Email-5E2750?style=for-the-badge&logo=gmail&logoColor=E95420)](mailto:blevis.liaisons@gmail.com)
 
 </div>
 
