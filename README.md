@@ -52,10 +52,12 @@ AI student focused on machine learning, NLP and deep learning. I build ML pipeli
 ## 📊 GitHub stats
 
 <div align="center">
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=blevis&rank_icon=github&show_icons=true&include_all_commits=true&theme=onedark)](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&show_icons=true&include_all_commits=true&theme=onedark)
+
+<img src="https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&show_icons=true&include_all_commits=true&theme=onedark" alt="GitHub stats" height="170">
+
 <br>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Blevis&hide_border=false&background=2C001E&border=5E2750&ring=E95420&fire=D97757&currStreakNum=F5F1EA&sideNums=F5F1EA&currStreakLabel=E95420&sideLabels=D97757&dates=AEA79F" alt="Streak stats">
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4&theme=onedark" alt="Top languages" height="170">
 
 </div>
 
