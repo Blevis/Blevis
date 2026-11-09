@@ -52,9 +52,7 @@ AI student focused on machine learning, NLP and deep learning. I build ML pipeli
 ## 📊 GitHub stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Blevis&hide_border=false&include_all_commits=true&count_private=true&bg_color=2C001E&title_color=E95420&text_color=F5F1EA&icon_color=D97757&border_color=5E2750](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&show_icons=true&include_all_commits=true&theme=onedark)](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&show_icons=true&include_all_commits=true&theme=onedark)" alt="GitHub stats" height="170">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blevis&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=2C001E&title_color=E95420&text_color=F5F1EA&icon_color=D97757&border_color=5E2750" alt="Top languages" height="170">
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=blevis&rank_icon=github&show_icons=true&include_all_commits=true&theme=onedark)](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&show_icons=true&include_all_commits=true&theme=onedark)
 <br>
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=Blevis&hide_border=false&background=2C001E&border=5E2750&ring=E95420&fire=D97757&currStreakNum=F5F1EA&sideNums=F5F1EA&currStreakLabel=E95420&sideLabels=D97757&dates=AEA79F" alt="Streak stats">
