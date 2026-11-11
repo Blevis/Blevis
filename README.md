@@ -53,11 +53,11 @@ AI student focused on machine learning, NLP and deep learning. I build ML pipeli
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&show_icons=true&include_all_commits=true&theme=onedark" alt="GitHub stats" height="170">
+<img src="https://github-stats-extended.vercel.app/api?username=Blevis&rank_icon=github&show_icons=true&include_all_commits=true&theme=onedark" alt="GitHub stats" height="170">
 
 <br>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4&theme=onedark" alt="Top languages" height="170">
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Blevis&langs_count=4&theme=onedark" alt="Top languages" height="170">
 
 </div>
 
