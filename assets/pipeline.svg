@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 270" width="1200" height="270" role="img" aria-label="ML workflow: collect, clean, engineer, train, evaluate, ship">
+<title>ML workflow: collect, clean, engineer, train, evaluate, ship</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#12000C"/><stop offset=".5" stop-color="#2C001E"/><stop offset="1" stop-color="#3D0F33"/>
+</linearGradient>
+<linearGradient id="hot" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#E95420"/><stop offset=".55" stop-color="#F2A47F"/><stop offset="1" stop-color="#F5F1EA"/>
+</linearGradient>
+<linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#E95420"/><stop offset=".6" stop-color="#5E2750"/><stop offset="1" stop-color="#5E2750" stop-opacity="0"/>
+</linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5">
+  <stop offset="0" stop-color="#E95420" stop-opacity=".35"/><stop offset="1" stop-color="#E95420" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="glowA" cx=".5" cy=".5" r=".5">
+  <stop offset="0" stop-color="#77216F" stop-opacity=".45"/><stop offset="1" stop-color="#77216F" stop-opacity="0"/>
+</radialGradient>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+  <circle cx="1.5" cy="1.5" r="1.1" fill="#AEA79F" fill-opacity=".13"/>
+</pattern>
+<filter id="blur8" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="8"/></filter>
+<filter id="blur3" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3"/></filter>
+</defs>
+<clipPath id="card"><rect width="1200" height="270" rx="18"/></clipPath>
+<g clip-path="url(#card)">
+<rect width="1200" height="270" fill="url(#bg)"/>
+<rect width="1200" height="270" fill="url(#dots)"/>
+
+<text x="31.0" y="46" font-family="'JetBrains Mono', 'Cascadia Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" letter-spacing="2" fill="#F2A47F">END-TO-END ML WORKFLOW</text>
+<text x="31.0" y="66" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#F5F1EA" fill-opacity=".85">From raw data to something people can use — every stage tested, every number with an interval.</text>
+<line x1="31.0" y1="156.0" x2="1169.0" y2="156.0" stroke="#5E2750" stroke-width="2" stroke-dasharray="6 6"><animate attributeName="stroke-dashoffset" from="24" to="0" dur="1s" repeatCount="indefinite"/></line><circle cy="156.0" r="5" fill="#F2A47F"><animate attributeName="cx" from="31.0" to="1169.0" dur="7.2s" begin="0.00s" repeatCount="indefinite"/></circle><circle cy="156.0" r="5" fill="#F2A47F"><animate attributeName="cx" from="31.0" to="1169.0" dur="7.2s" begin="2.40s" repeatCount="indefinite"/></circle><circle cy="156.0" r="5" fill="#F2A47F"><animate attributeName="cx" from="31.0" to="1169.0" dur="7.2s" begin="4.80s" repeatCount="indefinite"/></circle><g>
+<rect x="31.0" y="92" width="168" height="128" rx="14" fill="#12000C" fill-opacity=".85" stroke="#5E2750" stroke-width="1.5"/>
+<rect x="31.0" y="92" width="168" height="128" rx="14" fill="#E95420" fill-opacity="0" stroke="#E95420" stroke-width="2" stroke-opacity="0">
+  <animate attributeName="stroke-opacity" values="0;0;1;1;0;0" keyTimes="0;0.000;0.000;0.167;0.168;1" dur="7.2s" repeatCount="indefinite"/>
+  <animate attributeName="fill-opacity" values="0;0;.12;.12;0;0" keyTimes="0;0.000;0.000;0.167;0.168;1" dur="7.2s" repeatCount="indefinite"/>
+</rect>
+<text x="49.0" y="124" font-family="'JetBrains Mono', 'Cascadia Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="700" fill="#E95420">01</text>
+<text x="49.0" y="154" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="19" font-weight="800" letter-spacing="1.5" fill="#F5F1EA">COLLECT</text>
+<text x="49.0" y="182" font-family="'JetBrains Mono', 'Cascadia Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" fill="#AEA79F">MediaWiki · REST APIs</text>
+<text x="49.0" y="200" font-family="'JetBrains Mono', 'Cascadia Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" fill="#AEA79F">web scraping</text>
+</g><path d="M207.0,150.0 L215.0,156.0 L207.0,162.0" fill="none" stroke="#E95420" stroke-width="2"/><g>
+<rect x="225.0" y="92" width="168" height="128" rx="14" fill="#12000C" fill-opacity=".85" stroke="#5E2750" stroke-width="1.5"/>
+<rect x="225.0" y="92" width="168" height="128" rx="14" fill="#E95420" fill-opacity="0" stroke="#E95420" stroke-width="2" stroke-opacity="0">
+  <animate attributeName="stroke-opacity" values="0;0;1;1;0;0" keyTimes="0;0.166;0.167;0.333;0.334;1" dur="7.2s" repeatCount="indefinite"/>
+  <animate attributeName="fill-opacity" values="0;0;.12;.12;0;0" keyTimes="0;0.166;0.167;0.333;0.334;1" dur="7.2s" repeatCount="indefinite"/>
+</rect>
+<text x="243.0" y="124" font-family="'JetBrains Mono', 'Cascadia Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="700" fill="#E95420">02</text>
+<text x="243.0" y="154" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="19" font-weight="800" letter-spacing="1.5" fill="#F5F1EA">CLEAN</text>
+<text x="243.0" y="182" font-family="'JetBrains Mono', 'Cascadia Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" fill="#AEA79F">pandas · regex rules</text>
+<text x="243.0" y="200" font-family="'JetBrains Mono', 'Cascadia Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" fill="#AEA79F">quality checks</text>
+</g><path d="M401.0,150.0 L409.0,156.0 L401.0,162.0" fill="none" stroke="#E95420" stroke-width="2"/><g>
+<rect x="419.0" y="92" width="168" height="128" rx="14" fill="#12000C" fill-opacity=".85" stroke="#5E2750" stroke-width="1.5"/>
+<rect x="419.0" y="92" width="168" height="128" rx="14" fill="#E95420" fill-opacity="0" stroke="#E95420" stroke-width="2" stroke-opacity="0">
+  <animate attributeName="stroke-opacity" values="0;0;1;1;0;0" keyTimes="0;0.332;0.333;0.500;0.501;1" dur="7.2s" repeatCount="indefinite"/>
+  <animate attributeName="fill-opacity" values="0;0;.12;.12;0;0" keyTimes="0;0.332;0.333;0.500;0.501;1" dur="7.2s" repeatCount="indefinite"/>
+</rect>
+<text x="437.0" y="124" font-family="'JetBrains Mono', 'Cascadia Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="700" fill="#E95420">03</text>
+<text x="437.0" y="154" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="19" font-weight="800" letter-spacing="1.5" fill="#F5F1EA">ENGINEER</text>
+<text x="437.0" y="182" font-family="'JetBrains Mono', 'Cascadia Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" fill="#AEA79F">target encoding</text>
+<text x="437.0" y="200" font-family="'JetBrains Mono', 'Cascadia Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" fill="#AEA79F">feature design</text>
+</g><path d="M595.0,150.0 L603.0,156.0 L595.0,162.0" fill="none" stroke="#E95420" stroke-width="2"/><g>
+<rect x="613.0" y="92" width="168" height="128" rx="14" fill="#12000C" fill-opacity=".85" stroke="#5E2750" stroke-width="1.5"/>
+<rect x="613.0" y="92" width="168" height="128" rx="14" fill="#E95420" fill-opacity="0" stroke="#E95420" stroke-width="2" stroke-opacity="0">
+  <animate attributeName="stroke-opacity" values="0;0;1;1;0;0" keyTimes="0;0.499;0.500;0.667;0.668;1" dur="7.2s" repeatCount="indefinite"/>
+  <animate attributeName="fill-opacity" values="0;0;.12;.12;0;0" keyTimes="0;0.499;0.500;0.667;0.668;1" dur="7.2s" repeatCount="indefinite"/>
+</rect>
+<text x="631.0" y="124" font-family="'JetBrains Mono', 'Cascadia Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="700" fill="#E95420">04</text>
+<text x="631.0" y="154" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="19" font-weight="800" letter-spacing="1.5" fill="#F5F1EA">TRAIN</text>
+<text x="631.0" y="182" font-family="'JetBrains Mono', 'Cascadia Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" fill="#AEA79F">scikit-learn · GBMs</text>
+<text x="631.0" y="200" font-family="'JetBrains Mono', 'Cascadia Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" fill="#AEA79F">spaCy pipelines</text>
+</g><path d="M789.0,150.0 L797.0,156.0 L789.0,162.0" fill="none" stroke="#E95420" stroke-width="2"/><g>
+<rect x="807.0" y="92" width="168" height="128" rx="14" fill="#12000C" fill-opacity=".85" stroke="#5E2750" stroke-width="1.5"/>
+<rect x="807.0" y="92" width="168" height="128" rx="14" fill="#E95420" fill-opacity="0" stroke="#E95420" stroke-width="2" stroke-opacity="0">
+  <animate attributeName="stroke-opacity" values="0;0;1;1;0;0" keyTimes="0;0.666;0.667;0.833;0.834;1" dur="7.2s" repeatCount="indefinite"/>
+  <animate attributeName="fill-opacity" values="0;0;.12;.12;0;0" keyTimes="0;0.666;0.667;0.833;0.834;1" dur="7.2s" repeatCount="indefinite"/>
+</rect>
+<text x="825.0" y="124" font-family="'JetBrains Mono', 'Cascadia Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="700" fill="#E95420">05</text>
+<text x="825.0" y="154" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="19" font-weight="800" letter-spacing="1.5" fill="#F5F1EA">EVALUATE</text>
+<text x="825.0" y="182" font-family="'JetBrains Mono', 'Cascadia Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" fill="#AEA79F">bootstrap CIs · MAE</text>
+<text x="825.0" y="200" font-family="'JetBrains Mono', 'Cascadia Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" fill="#AEA79F">BH correction</text>
+</g><path d="M983.0,150.0 L991.0,156.0 L983.0,162.0" fill="none" stroke="#E95420" stroke-width="2"/><g>
+<rect x="1001.0" y="92" width="168" height="128" rx="14" fill="#12000C" fill-opacity=".85" stroke="#5E2750" stroke-width="1.5"/>
+<rect x="1001.0" y="92" width="168" height="128" rx="14" fill="#E95420" fill-opacity="0" stroke="#E95420" stroke-width="2" stroke-opacity="0">
+  <animate attributeName="stroke-opacity" values="0;0;1;1;0;0" keyTimes="0;0.832;0.833;1.000;1.000;1" dur="7.2s" repeatCount="indefinite"/>
+  <animate attributeName="fill-opacity" values="0;0;.12;.12;0;0" keyTimes="0;0.832;0.833;1.000;1.000;1" dur="7.2s" repeatCount="indefinite"/>
+</rect>
+<text x="1019.0" y="124" font-family="'JetBrains Mono', 'Cascadia Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="700" fill="#E95420">06</text>
+<text x="1019.0" y="154" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="19" font-weight="800" letter-spacing="1.5" fill="#F5F1EA">SHIP</text>
+<text x="1019.0" y="182" font-family="'JetBrains Mono', 'Cascadia Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" fill="#AEA79F">React port · Streamlit</text>
+<text x="1019.0" y="200" font-family="'JetBrains Mono', 'Cascadia Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" fill="#AEA79F">MkDocs · LaTeX</text>
+</g>
+</g>
+<rect x=".75" y=".75" width="1198.5" height="268.5" rx="18" fill="none" stroke="#5E2750" stroke-width="1.5"/>
+</svg>

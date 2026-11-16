@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" width="600" height="420" role="img" aria-label="Focus map radar: machine learning, NLP, statistics, algorithms, software engineering, deep learning">
+<title>Focus map radar: machine learning, NLP, statistics, algorithms, software engineering, deep learning</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#12000C"/><stop offset=".5" stop-color="#2C001E"/><stop offset="1" stop-color="#3D0F33"/>
+</linearGradient>
+<linearGradient id="hot" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#E95420"/><stop offset=".55" stop-color="#F2A47F"/><stop offset="1" stop-color="#F5F1EA"/>
+</linearGradient>
+<linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#E95420"/><stop offset=".6" stop-color="#5E2750"/><stop offset="1" stop-color="#5E2750" stop-opacity="0"/>
+</linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5">
+  <stop offset="0" stop-color="#E95420" stop-opacity=".35"/><stop offset="1" stop-color="#E95420" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="glowA" cx=".5" cy=".5" r=".5">
+  <stop offset="0" stop-color="#77216F" stop-opacity=".45"/><stop offset="1" stop-color="#77216F" stop-opacity="0"/>
+</radialGradient>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+  <circle cx="1.5" cy="1.5" r="1.1" fill="#AEA79F" fill-opacity=".13"/>
+</pattern>
+<filter id="blur8" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="8"/></filter>
+<filter id="blur3" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3"/></filter>
+
+<linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#E95420" stop-opacity="0"/><stop offset="1" stop-color="#E95420" stop-opacity=".35"/></linearGradient>
+</defs>
+<clipPath id="card"><rect width="600" height="420" rx="18"/></clipPath>
+<g clip-path="url(#card)">
+<rect width="600" height="420" fill="url(#bg)"/>
+<rect width="600" height="420" fill="url(#dots)"/>
+
+<circle cx="300" cy="232" r="172" fill="url(#glow)"/>
+<text x="28" y="40" font-family="'JetBrains Mono', 'Cascadia Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" letter-spacing="2" fill="#F2A47F">FOCUS MAP</text>
+<text x="28" y="58" font-family="'JetBrains Mono', 'Cascadia Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" fill="#AEA79F" fill-opacity=".8">where my hours go</text>
+<polygon points="300.0,199.0 328.6,215.5 328.6,248.5 300.0,265.0 271.4,248.5 271.4,215.5" fill="none" stroke="#5E2750" stroke-width="1" stroke-opacity="0.62"/><polygon points="300.0,166.0 357.2,199.0 357.2,265.0 300.0,298.0 242.8,265.0 242.8,199.0" fill="none" stroke="#5E2750" stroke-width="1" stroke-opacity="0.75"/><polygon points="300.0,133.0 385.7,182.5 385.7,281.5 300.0,331.0 214.3,281.5 214.3,182.5" fill="none" stroke="#5E2750" stroke-width="1" stroke-opacity="0.88"/><polygon points="300.0,100.0 414.3,166.0 414.3,298.0 300.0,364.0 185.7,298.0 185.7,166.0" fill="none" stroke="#5E2750" stroke-width="1" stroke-opacity="1.00"/><line x1="300" y1="232" x2="300.0" y2="100.0" stroke="#5E2750" stroke-width="1"/><line x1="300" y1="232" x2="414.3" y2="166.0" stroke="#5E2750" stroke-width="1"/><line x1="300" y1="232" x2="414.3" y2="298.0" stroke="#5E2750" stroke-width="1"/><line x1="300" y1="232" x2="300.0" y2="364.0" stroke="#5E2750" stroke-width="1"/><line x1="300" y1="232" x2="185.7" y2="298.0" stroke="#5E2750" stroke-width="1"/><line x1="300" y1="232" x2="185.7" y2="166.0" stroke="#5E2750" stroke-width="1"/>
+<g transform="translate(300 232)">
+  <path d="M0,0 L132,0 A132,132 0 0,0 108.9,-74.5 Z" fill="url(#sweep)">
+    <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="5s" repeatCount="indefinite"/></path>
+  <g>
+    <animateTransform attributeName="transform" type="scale" values="0;1.04;1" keyTimes="0;.8;1" dur="1.4s" fill="freeze"/>
+    <polygon points="0.0,-121.4 98.3,-56.8 100.6,58.1 0.0,100.3 -82.3,47.5 -89.2,-51.5" fill="#E95420" fill-opacity=".28" stroke="#E95420" stroke-width="2.5" stroke-linejoin="round"/>
+    <circle cx="0.0" cy="-121.4" r="4.5" fill="#F5F1EA" stroke="#E95420" stroke-width="2"/><circle cx="98.3" cy="-56.8" r="4.5" fill="#F5F1EA" stroke="#E95420" stroke-width="2"/><circle cx="100.6" cy="58.1" r="4.5" fill="#F5F1EA" stroke="#E95420" stroke-width="2"/><circle cx="0.0" cy="100.3" r="4.5" fill="#F5F1EA" stroke="#E95420" stroke-width="2"/><circle cx="-82.3" cy="47.5" r="4.5" fill="#F5F1EA" stroke="#E95420" stroke-width="2"/><circle cx="-89.2" cy="-51.5" r="4.5" fill="#F5F1EA" stroke="#E95420" stroke-width="2"/>
+  </g>
+</g>
+<text x="300.0" y="78.0" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#F5F1EA">Machine Learning</text><text x="436.8" y="157.0" text-anchor="start" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#F5F1EA">NLP</text><text x="436.8" y="315.0" text-anchor="start" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#F5F1EA">Statistics</text><text x="300.0" y="394.0" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#F5F1EA">Algorithms</text><text x="163.2" y="315.0" text-anchor="end" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#F5F1EA">Software Eng.</text><text x="163.2" y="157.0" text-anchor="end" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#F5F1EA">Deep Learning</text>
+</g>
+<rect x=".75" y=".75" width="598.5" height="418.5" rx="18" fill="none" stroke="#5E2750" stroke-width="1.5"/>
+<rect x=".75" y=".75" width="598.5" height="418.5" rx="18" fill="none" stroke="url(#hot)" stroke-width="2" pathLength="1000" stroke-dasharray="140 860" stroke-linecap="round"><animate attributeName="stroke-dashoffset" from="1000" to="0" dur="8s" begin="4s" repeatCount="indefinite"/></rect>
+</svg>
